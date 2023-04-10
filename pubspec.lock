@@ -138,6 +138,7 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "4.0.6"
+<<<<<<< HEAD
   dotenv:
     dependency: "direct main"
     description:
@@ -146,6 +147,8 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "4.1.0"
+=======
+>>>>>>> 382ca7bbda414da59d790110b181f9c99ccaf7ee
   english_words:
     dependency: "direct main"
     description:

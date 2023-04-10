@@ -1,5 +1,8 @@
 # Miscellaneous
+<<<<<<< HEAD
 *.env
+=======
+>>>>>>> 382ca7bbda414da59d790110b181f9c99ccaf7ee
 *.class
 *.log
 *.pyc
